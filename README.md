@@ -47,7 +47,8 @@ Managing the inventory of a fridge can be a challenging task, especially when mu
 
 ### Data Annotation
 - Used Roboflow to annotate the extracted frames, marking objects of interest such as milk, biscuits, chocolate, and individuals' faces.
-
+![annotate](https://raw.githubusercontent.com/akalabri/Fridge-Items-Detection/main/Media/annotating%20chocolate%20.png)
+![annotate1](https://raw.githubusercontent.com/akalabri/Fridge-Items-Detection/main/Media/roboflow_annotating.png)
 ### Model Training
 - Leveraged Google Colab to train a YOLOv8-based model using the annotated data.
 - Fine-tuned the model to accurately detect items and people within the fridge.
