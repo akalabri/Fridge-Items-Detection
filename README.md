@@ -22,6 +22,9 @@ Managing the inventory of a fridge can be a challenging task, especially when mu
 - Utilized YOLO (You Only Look Once) for real-time object detection.
 - Processed video streams to identify people and items in the fridge.
 
+### Utilizing GPU to run scripts
+- Setup my laptop with the NVIDIA graphics card to run the script for smoother detections 
+  
 ### Python Programming
 - Leveraged the power of Python for scripting and automation.
 
