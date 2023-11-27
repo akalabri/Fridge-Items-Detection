@@ -3,6 +3,8 @@ Using computer vision, the program keeps track of fridge inventory and updates t
 # Fridge Inventory Management System
 
 Welcome to the Fridge Inventory Management System project! This project is designed to help you keep track of the items in your fridge, detect who interacts with it, and manage the inventory effectively. Below, I will provide an overview of the project, the skills and tools used, and the steps taken to achieve the desired outcome.
+![detections](https://raw.githubusercontent.com/akalabri/Fridge-Items-Detection/main/Media/detections.png)
+![dashboard](https://raw.githubusercontent.com/akalabri/Fridge-Items-Detection/695306cf8e92b93aa161c6a3cfc4bf387d1fdd23/Media/dashapp.png)
 
 ## Overview
 
